@@ -70,8 +70,10 @@ If you want to train the model from scratch, open `training.ipynb` and run all t
 ## 🖼 Screenshots
 Here are some previews of the Streamlit web app:
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshots/Screenshot 1.png)
+![Screenshot 2](screenshots/Screenshot 2.png)
+![Screenshot 1](screenshots/Screenshot 3.png)
+
 
 *(Add more screenshots as needed)*
 
