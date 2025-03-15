@@ -75,8 +75,6 @@ Here are some previews of the Streamlit web app:
 ![Screenshot 1](screenshots/Screenshot3.png)
 
 
-*(Add more screenshots as needed)*
-
 ---
 
 ## 📌 To-Do List
